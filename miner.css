@@ -1,3 +1,7 @@
+background {
+	color: olivedrab;
+}
+
 #miner h4.number-label,
 #miner h2 {
 	color: #aaa;
